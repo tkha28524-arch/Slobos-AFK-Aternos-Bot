@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Technoblade",
-    "password": "",
+    "password": "Bot1",
     "type": "offline"
   },
   "server": {
-    "ip": "musketeersmpfun.aternos.me",
-    "port": 32430,
+    "ip": "DoubleWaffleSMP.aternos.me",
+    "port": 50702,
     "version": "",
     "try-creative": false
   },
